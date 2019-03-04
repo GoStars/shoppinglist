@@ -1,6 +1,8 @@
 <h2>Shopping list</h2> 
 built with the MERN stack
 
+<hr>
+
 <strong>Instructions</strong>
 
 <ol>
