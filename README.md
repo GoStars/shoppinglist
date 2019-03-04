@@ -1,8 +1,9 @@
-<h2>Shopping list built with the MERN stack</h2>
+<h2>Shopping list</h2> 
+built with the MERN stack
 
 <strong>Instructions</strong>
 
-<ul>
+<ol>
   <li>Install front-end: npm run client-install</li>
   <li>Create config folder in root directory</li>
   <li>Inside config folder create file called keys.js</li>
@@ -14,4 +15,4 @@
       }
     </code>
   </li>
-</ul>
+</ol>
