@@ -4,13 +4,31 @@
   "description": "Shopping list built with the MERN stack",
   "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node server.js",
+    "server": "nodemon server.js"
+  },
+  "author": "GoStars",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "concurrently": "^4.1.0",
+    "express": "^4.16.4",
+    "mongoose": "^5.4.16"
+  },
+  "engines": {
+    "node": "10.12.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/GoStars/shoppinglist.git"
   },
   "keywords": [
     "Shopping",
     "List",
     "MERN"
   ],
-  "author": "GoStars",
-  "license": "Apache-2.0"
+  "bugs": {
+    "url": "https://github.com/GoStars/shoppinglist/issues"
+  },
+  "homepage": "https://github.com/GoStars/shoppinglist#readme"
 }
